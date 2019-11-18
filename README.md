@@ -1,2 +1,0 @@
-# trailers
-Created with CodeSandbox

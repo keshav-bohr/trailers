@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+}
+
+.trailer-video {
+  height: 495px;
+  width: 100%;
+  position: absolute;
+  background-color: black;
+}
+
+.trailer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.trailer-box {
+  align-self: flex-start;
+  width: 232px;
+}
+
+.movie-poster {
+  cursor: pointer;
+}
